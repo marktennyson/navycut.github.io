@@ -6,6 +6,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://navycut.github.io/documentation/</loc>
+         <lastmod>2021-09-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://navycut.github.io/installation/</loc>
+         <lastmod>2021-09-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://navycut.github.io/introduction/</loc>
          <lastmod>2021-09-02</lastmod>
          <changefreq>daily</changefreq>
