@@ -1,0 +1,19 @@
+site_name: Navycut
+site_description: The Full-stack web framework to meet the developer's expectation.
+site_url: https://navycut.github.io/
+
+theme:
+    name: material
+
+    logo: https://raw.githubusercontent.com/navycut/navycut/main/logos/navycut_logo.png
+    favicon: https://raw.githubusercontent.com/navycut/navycut/main/logos/navycut_logo.png
+
+repo_name: navycut/navycut
+repo_url: https://github.com/navycut/navycut
+
+plugins:
+- search
+
+nav:
+    - Navycut: index.md
+    - Introduction: introduction.md
